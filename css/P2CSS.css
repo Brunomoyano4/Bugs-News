@@ -1,0 +1,82 @@
+header {
+    margin-left: 100px;
+    margin-right: 100px;
+    border-bottom-style: solid;
+    border-bottom-color: lightgrey;
+    border-width: 1px;
+}
+article {
+    margin-left: 200px; 
+    width: 1000px;
+    border-right-style: solid;
+    border-right-color: lightgrey;
+    border-width: 1px;
+}
+div {
+    margin-top: 1em;
+}
+section {
+    margin-bottom: 5rem;
+}
+h1 {
+    color: rgb(48, 48, 48);
+    font-size: 55px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    color: rgb(107, 107, 107);
+    font-size: 22px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+figcaption {
+    color: rgb(107, 107, 107);
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+p {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 23px;
+    line-height: 40px;
+}
+.figure1 {
+    width: 920px;
+    height: 610px;
+    margin-left: 0%;
+    margin-bottom: 1em;
+}
+.space {
+    color: black;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    margin-left: 100px;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color:rgb(59, 118, 167);
+}
+.byclass {
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(52, 97, 156);
+}
+#by:hover {
+    text-decoration: underline;
+    color: rgb(69, 125, 197);
+}
+#in-p {
+    color: rgb(69, 125, 197);
+    border-bottom: 1px solid;
+    text-decoration: none;
+}
+#in-p:hover {
+    color: rgb(85, 157, 250);
+}
+.date {
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    color: rgb(107, 107, 107);
+}
