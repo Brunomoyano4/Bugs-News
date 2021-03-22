@@ -1,3 +1,35 @@
+h1 {
+    font-size: 40px;
+    text-decoration: none;
+    text-align: center;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a {
+    color: rgb(99, 165, 187);
+}
+.typeinline {
+    display: inline-block;
+}
+.RoleVaccine{
+    margin: 0% 25% 0% 25%;
+    border-color: black;
+    border-style: solid;
+    padding-left: 20px;
+}
+.inline-decoration {
+    display: inline-block; 
+    text-decoration: underline;
+}
+.inline-width-height {
+    display: inline-block; 
+    width:300px; 
+    height:auto;
+}
+#align {
+    vertical-align: middle;
+}
 .par {
     Margin: 0% 25% 0% 25%;
     font-size: 20px;
@@ -15,4 +47,15 @@
     display: inline-block;
     width:300px;
     height:auto;
+}
+#typeblock {
+    display: block;
+}
+.rollout {
+    width: 300px;
+    height: auto; 
+    vertical-align: middle;
+}
+a:hover {
+    text-decoration: none;
 }
